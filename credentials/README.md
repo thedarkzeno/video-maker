@@ -14,7 +14,7 @@ File `algorithmia.json`
 File `watson-nlu.json`
 ```
 {
-  "apiKey": "your api key",
+  "apikey": "your api key",
    "iam_apikey_description": "",
     "iam_apikey_name": "",
     "iam_role_crn": "",
